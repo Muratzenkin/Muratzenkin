@@ -2,13 +2,9 @@
 <h1 align="center">Hallo 👋 Ich bin Murat Zenkin</h1>
 <h3 align="center">Ich stehe am Anfang des Webentwicklungskurses. Ich glaube, ich werde hier eine Menge lernen.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muratzenkin&label=Profile%20views&color=0e75b6&style=flat" alt="muratzenkin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratzenkin" alt="muratzenkin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sozial Media:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/murat zenki̇n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murat zenki̇n" height="30" width="40" /></a>
 </p>
