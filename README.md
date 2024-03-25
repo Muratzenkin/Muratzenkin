@@ -1,6 +1,6 @@
 ### Hallo 👋
 
-##Hallo zusammen
+## Hallo zusammen
 Ich stehe am Anfang des Webentwicklungskurses.
 Ich glaube, ich werde hier eine Menge lernen.
 
