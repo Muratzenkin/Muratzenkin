@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratzenkin&show_icons=true&locale=en&layout=compact" alt="muratzenkin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratzenkin&show_icons=true&locale=en" alt="muratzenkin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muratzenkin&" alt="muratzenkin" /></p>
