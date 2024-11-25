@@ -3,8 +3,8 @@
 <h3 align="center">Ich stehe am Anfang des Webentwicklungskurses. Ich glaube, ich werde hier eine Menge lernen.</h3>
 
 <h3 align="left">Project:</h3>
-<h3 align="left">[https://muratzenkin.github.io/wetter-app](https://wetter-app-dci.netlify.app)/</h3>
-<h3 align="left">[https://muratzenkin.github.io/html-css-final-project](https://coolcare.netlify.app)/</h3>
+<h3 align="left">https://wetter-app-dci.netlify.app/</h3>
+<h3 align="left">https://coolcare.netlify.app/</h3>
 <h3 align="left">https://deutschkurs.netlify.app</h3>
 
 
