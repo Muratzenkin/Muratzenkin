@@ -1,12 +1,10 @@
 
 <h1 align="center">Hallo 👋 Ich bin Murat Zenkin</h1>
-<h3 align="center">Mit über 10 Jahren Erfahrung als Notfallsanitäter in der Türkei habe ich wertvolle Kompetenzen in der Arbeit mit Menschen, in der Stressbewältigung und in der Lösung komplexer Situationen entwickelt. Mein Wunsch, mich beruflich weiterzuentwickeln und in die Technologiebranche einzusteigen, hat mich dazu inspiriert, eine Karriere im Bereich Webentwicklung einzuschlagen.
+<h3 align="center">Von der Notfallmedizin zur Webentwicklung: Nach über 10 Jahren Berufserfahrung als Notfallsanitäter habe ich meine Leidenschaft für Technologie entdeckt und mich zum Full Stack Webentwickler weitergebildet.
 
-Derzeit befinde ich mich in den letzten Monaten eines 12-monatigen Webentwicklungskurses, in dem ich fundierte Kenntnisse in modernen Technologien wie HTML, CSS, JavaScript, React und Node.js erworben habe. Während dieser Zeit habe ich ein Projekt umgesetzt, bei dem ich eine interaktive Webanwendung entwickelt habe. Hierbei konnte ich praktische Erfahrungen in der API-Integration und Benutzerfreundlichkeit sammeln.
+Ich kombiniere soziale Kompetenz, Stressresistenz und technisches Know-how, um moderne Weblösungen zu entwickeln – aktuell mit Fokus auf React, TypeScript und Node.js.
 
-Meine bisherigen Erfahrungen haben mich gelehrt, diszipliniert und lösungsorientiert zu arbeiten, was ich mit großer Motivation in die Webentwicklung einbringen möchte. Besonders begeistert mich die Möglichkeit, innovative und benutzerzentrierte Weblösungen zu entwickeln, die echte Mehrwerte bieten.
-
-Ich freue mich darauf, meine Fähigkeiten mit meiner ausgeprägten Lernbereitschaft und Teamfähigkeit zu kombinieren, um einen wertvollen Beitrag zum Erfolg Ihres Unternehmens zu leisten.</h3>
+Offen für neue Herausforderungen im Bereich Webentwicklung.</h3>
 
 <h3 align="left">Project:</h3>
 <h3 align="left">https://muratzenkin.netlify.app/</h3>
