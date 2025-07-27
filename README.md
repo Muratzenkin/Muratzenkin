@@ -17,7 +17,10 @@ Offen für neue Herausforderungen im Bereich Webentwicklung.</h3>
 
 <h3 align="left">Sozial Media:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/murat zenki̇n](https://www.linkedin.com/in/murat-zenkin-2a04b32a5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murat zenki̇n" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/murat-zenkin-2a04b32a5/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profil" height="30" width="40" />
+</a>
+
 </p>
 
 <p align="left">
